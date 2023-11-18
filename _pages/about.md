@@ -1,26 +1,48 @@
 ---
 layout: about
-title: about
+title: 
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Undergraduate student at SKKU
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: lhj.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>101 101</p>
+    <p>Sungbukgu Samsunro 23</p>
+    <p>Seoul, Republic of Korea</p>
+    <br><br><br><br><br><br>
+    
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
+#### Introduction
+Hello~ My name is Lee Hanjun. 
+\
+I am studying at software department SKKU and 4th grade undergraduate student.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+#### Skills
+&nbsp;&nbsp;* Web Skills : html/css, javascript, web programming 
+\
+&nbsp;&nbsp;* Languge Skills : java, python, C 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+#### Education
+&nbsp;&nbsp;* SKKU undergraduate student, 2019~now
+\
+&nbsp;&nbsp;* Graduated Whimun High School, 2015
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+#### Achievements and Certifications
+&nbsp;&nbsp;* Intern staff at Hippo T&C, 2022.6~2022.9
+\
+&nbsp;&nbsp;* Certificate of apprecation from SeoulMetro Corp. When I was in military service
+
+#### Contact
+&nbsp;&nbsp;* email address: jun0000 @gmail.com 
+\
+&nbsp;&nbsp;* HP : 010 1000 0001
+
+
